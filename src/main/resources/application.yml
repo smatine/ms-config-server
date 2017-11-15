@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/abhijit-kalita/config-server-properties-files
+          uri: https://github.com/smatine/config-server-properties-files
           #username: 
           #password: 
           search-paths:
